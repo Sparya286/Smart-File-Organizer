@@ -28,5 +28,5 @@ python organizer.py
 
 ## Preview
 
-![Smart File Organizer](screenshot.png)
+![Smart File Organizer](screenshot.PNG)
 The files will automatically be organized.
