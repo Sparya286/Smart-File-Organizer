@@ -26,4 +26,7 @@ A simple Python application that automatically organizes files into folders base
 python organizer.py
 ```
 
+## Preview
+
+![Smart File Organizer](screenshot.png)
 The files will automatically be organized.
