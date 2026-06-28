@@ -22,9 +22,7 @@ further, moving the files accordingly.
 import os
 import shutil
 folder_path = r"TestFolder"
-print("Current working directory:", os.getcwd())
-print("TestFolder path:", os.path.abspath(folder_path))
-print("Contents of TestFolder:", os.listdir(folder_path))
+
 FILE_TYPES = {
     "Images": [
         ".jpg", ".jpeg", ".png", ".gif",
